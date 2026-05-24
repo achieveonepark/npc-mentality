@@ -1,0 +1,13 @@
+{
+  "name": "com.achieveonepark.npc-mentality",
+  "version": "1.0.0",
+  "displayName": "NPC Mentality",
+  "description": "NPC AI systems: Memory, Relationship Contagion, Crowd AI, Emotion Animations, Quest Generator, World Time, and Rumor spreading.",
+  "unity": "2021.3",
+  "keywords": ["npc", "ai", "rpg", "simulation"],
+  "author": {
+    "name": "AchieveOnePark",
+    "email": "park_achieveone@naver.com"
+  },
+  "dependencies": {}
+}
