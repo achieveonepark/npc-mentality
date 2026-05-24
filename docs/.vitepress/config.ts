@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'NPC Mentality',
   description: 'Unity NPC AI 시스템 — 기억, 관계, 군중, 감정, 퀘스트, 시간, 루머',
   lang: 'ko-KR',
+  base: '/npc-mentality/',
 
   themeConfig: {
     logo: '/logo.png',
