@@ -1,0 +1,26 @@
+{
+  "link.title.문서": {
+    "message": "文档",
+    "description": "Footer column title"
+  },
+  "link.item.label.소개": {
+    "message": "简介",
+    "description": "Footer link"
+  },
+  "link.item.label.설치": {
+    "message": "安装",
+    "description": "Footer link"
+  },
+  "link.title.링크": {
+    "message": "链接",
+    "description": "Footer column title"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Footer link"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 AchieveOnePark. MIT License.",
+    "description": "Footer copyright"
+  }
+}

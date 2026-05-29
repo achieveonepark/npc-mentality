@@ -26,17 +26,19 @@ jobs:
           cache: npm
           cache-dependency-path: docs/package.json
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
+        working-directory: docs
+
+      - name: Build Docusaurus site
+        run: npm run build
         working-directory: docs
 
       - uses: actions/configure-pages@v4
 
-      - run: npm run build
-        working-directory: docs
-
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: docs/build
 
   deploy:
     needs: build

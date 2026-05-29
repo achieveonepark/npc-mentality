@@ -1,0 +1,46 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroSubtext {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  margin-top: -0.5rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.githubBtn {
+  border-color: rgba(255, 255, 255, 0.6);
+  color: #fff;
+}
+
+.githubBtn:hover {
+  border-color: #fff;
+  color: #fff;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 3rem 0;
+}
+
+.featureCard {
+  text-align: center;
+  padding: 1.5rem 1rem;
+}
+
+.featureEmoji {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
