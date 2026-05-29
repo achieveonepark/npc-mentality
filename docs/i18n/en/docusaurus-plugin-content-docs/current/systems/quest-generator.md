@@ -83,7 +83,7 @@ public class QuestData
 
 | EventType | Generated Example |
 |-----------|------------------|
-| `Kill` | "Strange {subject} have appeared near the forest." |
+| `Kill` | "Strange \{subject\} have appeared near the forest." |
 | `Steal` | "Items have gone missing in the merchant district." |
 | `Help` | "A helping hand is needed again." |
 | `Rescue` | "People are in danger." |

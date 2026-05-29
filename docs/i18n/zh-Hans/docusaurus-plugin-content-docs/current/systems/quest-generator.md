@@ -51,7 +51,7 @@ generator.OnQuestGenerated += quest =>
 
 | EventType | 生成示例 |
 |-----------|---------|
-| `Kill` | "森林附近出现了奇怪的 {subject}。" |
+| `Kill` | "森林附近出现了奇怪的 \{subject\}。" |
 | `Steal` | "商人区的货物消失了。" |
 | `Help` | "再次需要援手。" |
 | `Rescue` | "有人身处险境。" |
