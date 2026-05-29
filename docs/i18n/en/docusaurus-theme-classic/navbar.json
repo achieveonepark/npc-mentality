@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "NPC Mentality",
+    "description": "The title in the navbar"
+  },
+  "item.label.문서": {
+    "message": "Docs",
+    "description": "Navbar item with label 문서"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
