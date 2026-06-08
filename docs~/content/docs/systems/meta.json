@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "crowd-ai",
+    "emotion",
+    "memory",
+    "quest-generator",
+    "relationship",
+    "rumor",
+    "world-time"
+  ],
+  "title": "시스템"
+}
