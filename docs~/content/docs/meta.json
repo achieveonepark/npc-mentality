@@ -1,7 +1,3 @@
 {
-  "pages": [
-    "index",
-    "guide",
-    "systems"
-  ]
+  "pages": ["index", "getting-started", "usage"]
 }
